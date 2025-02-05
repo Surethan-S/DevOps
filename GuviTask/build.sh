@@ -1,6 +1,6 @@
 #!/bin/bash
 docker build -t taskmates .
 echo Hi from sanmathi
-docker login -u sanmathisedhupathi -p 08-Sep-2004
-docker tag test sanmathisedhupathi/guvi:taskmates
-docker push sanmathisedhupathi/guvi:taskmates
+docker login -u surethan37 -p 55665566@S37
+docker tag test surethan37/task
+docker push surethan37/task
